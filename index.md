@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Chris Callison-Burch
-subtitle: Associate of Professor of Computer and Information Science at University of Pennsylvania
+subtitle: Associate of Professor of Computer and Information Science at the University of Pennsylvania
 ---
 
 Chris Callison-Burch is an associate professor of Computer and Information Science at the University of Pennsylvania. His course on Artificial Intelligence has one of the highest enrollments at the university with 500 students taking the class each Fall. 
