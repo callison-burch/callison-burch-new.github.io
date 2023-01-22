@@ -10,17 +10,17 @@
 ############################
 
 # Name of website
-title: My Website
+#title: CCB
 
 # Your name to show in the footer
-author: Some Person
+author: Chris Callison-Burch
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  Publications: "publications"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
