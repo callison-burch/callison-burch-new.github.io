@@ -55,7 +55,7 @@ active_tab: students
 </div>
 
 
-
+<!--
 <h3>Past Visiting Scholars</h3>
 
 <div class="container-fluid">
@@ -76,5 +76,6 @@ active_tab: students
   {% endfor %}
   </div>
 </div>
+-->
 
 
