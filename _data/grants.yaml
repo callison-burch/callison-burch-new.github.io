@@ -1,0 +1,440 @@
+-
+   title: IARPA HIATUS&colon; PAUSIT&colon; Privacy protection and Authorship attribution Using Style-based Interpretable Transfer
+   awarding_body: IARPA
+   amount: $7m
+   start_date: 2022
+   end_date: 2026
+   status: current
+   PI_info: Chris Callison-Burch - PI, Marianna Apidianaki - co-PI, Kathleen McKeown (Columbia), Smaranda Muresan (Columbia), Owen Rambow (Stony Brook University), Niranjan Balasubramanian (Stony Brook University), Andy Schwartz (Stony Brook University)
+   url:
+   abstract: 
+-
+   title: RI&colon; Small&colon; LINGATTACK&colon; A Semantics-driven Adversarial Framework for Deep Learning Models
+   awarding_body: NSF
+   amount: $600k
+   start_date: 2022
+   end_date: 2026
+   status: rejected
+   PI_info: Marianna Apidianaki - PI, Chris Callison-Burch
+   url:
+   abstract: 
+-
+   title: Semi-supervised Learning of Multimodal Representations
+   awarding_body: DARPA 
+   amount: $428k
+   start_date: 2019
+   end_date: 2022
+   status: past
+   PI_info: Chris Callison-Burch (PI-UPenn) and Derry Wijaya (Boston University)
+   url: 
+   abstract: Systems that process text and image can link semantic and real-world knowledge and make better inferences about object-word connections even when linguistic evidence is scarce. Most current multimodal systems are supervised and thus limited to recognizing objects represented in hand-crafted image databases. Starting with knowledge of the mapping between texts and images in existing image databases, we propose a semi-supervised model that can dynamically update and extend this knowledge as it encounters images of new objects. The model will combine learning from both images and captions using matrix completion, and will infer object collocations in images from word collocations in their captions. The model will acquire large-scale vision-to-language mappings that will dynamically update and extend the coverage of existing image databases.
+-
+   title: STTR&colon; Personalized Retrieval-based Simplification
+   awarding_body: NSF
+   amount: $225k
+   start_date: 2019
+   end_date: 2021
+   status: past
+   PI_info: Eleni Miltsakaki (Choosito.com) - PI, Chris Callison-Burch
+   url: https://www.nsf.gov/pubs/2017/nsf17595/nsf17595.htm
+   abstract: 
+-
+   title: KMASS&colon; Teachable Moments&colon; AI-enhanced Roleplay and Scenario Construction
+   awarding_body: DARPA
+   amount: $7.6m
+   start_date: 2022
+   end_date: 2025
+   status: rejected
+   PI_info: Chris Callison-Burch (PI), Carsten Eickhoff (Brown), Francis Ferraro and Tim Finin (UMBC), Kenneth Huang (Penn State), Mohit Iyyer (UMass Amherst), Alan Ritter and Wei Xu (Geogia Tech), João Sedoc (NYU), Zhou Yu (Columbia University)
+   url: 
+   abstract: 
+-
+   title: Alexa Prize TaskBot Challenge
+   awarding_body: Amazon
+   amount: $250k
+   start_date: 2021
+   end_date: 2022
+   status: past
+   PI_info: Chris Callison-Burch (PI), Mark Yatskar (UPenn)
+   url: 
+   abstract: 
+-
+   title: Computing Innovation Postdoctoral Fellow Award
+   awarding_body: NSF/CRA
+   amount: ~$140k
+   start_date: 2021
+   end_date: 2023
+   status: current
+   PI_info: Lara Martin (postdoc), Chris Callison-Burch (faculty advisor)
+   url: 
+   abstract: 
+
+-
+   title: PTG&colon; A User-Aware, Perceptually Grounded Intelligent Assistant Joining Augmented Reality, Video, Images, and Speech (J.A.R.V.I.S.)
+   awarding_body: DARPA
+   amount: $8m
+   start_date: 2021
+   end_date: 2025
+   status: rejected
+   PI_info: Chris Callison-Burch (PI), Christoffer Heckman (Colorado), Heng Ji (UIUC), Katharina Kann (Colorado), Eleni Miltsakaki (UPenn), Martha Palmer (Colorado), Alessandro Roncone (Colorado), João Sedoc (NYU), Vivek Srikumar (Utah), Danielle Szafir (Colorado), Daniel Szafir (Colorado), Xiaolong Wang (UCSD), Mark Yatskar (UPenn)
+   url: 
+   abstract: 
+-
+   title: INCAS&colon; Using Self-Identification of Group Membership to Characterize Reactions to Influence Campaigns, Argumentation, and Persuasive Language
+   awarding_body: DARPA
+   amount: $3.8m
+   start_date: 2021
+   end_date: 2025
+   status: rejected
+   PI_info: Chris Callison-Burch (PI), Emily Falk (UPenn), Darren Linvill (Clemson) and Patrick Warren (Clemson)
+   url: 
+   abstract: 
+-
+   title: REU Supplement
+   awarding_body: NSF
+   amount: $16k
+   start_date: 2019
+   end_date: 2020
+   status: past
+   PI_info: co-PI Chris Cieri
+-
+   title: SPUR WOMEN&colon; Support and Promote Undergraduate Research for Women
+   awarding_body: Google
+   amount: $15k from Google 
+   start_date: 2019
+   end_date: 2020
+   status: past
+   PI_info: PI with Rita Powell
+-
+   title: FFW-HTF-RL&colon; Collaborative Research&colon; Up-skilling and Re-skilling Marginalized Rural and Urban Digital Workers&colon; AI-worker collaboration to access creative work
+   awarding_body: NSF 
+   amount: $3m
+   start_date: 2019
+   end_date: 2024
+   status: current
+   PI_info: Jeffrey Bigham (CMU) - PI, Chris Callison-Burch (UPenn), Ben Hanrahan (Penn State), Niki Kittur (CMU), Beibei Li (CMU), Amy Ogan (CMU), Amy Pavel (CMU), Saiph Savage (West Virgina University), Julia Ticona (UPenn)
+   url: https://www.nsf.gov/pubs/2018/nsf18548/nsf18548.htm
+   abstract: |
+      The future of work includes new opportunities for rural and marginalized communities through online work and the gig economy. Many rural areas in the United States are plagued by a lack of economic opportunity. Urban areas may be geographically closer to opportunity, but workers similarly struggle to access it. Digital work can bring opportunities to otherwise marginalized communities; however, work on current platforms is often low-level labeling work offering few opportunities for advancement. It is often intended to train Artificial Intelligence to automate this work away, instead of training workers. Our proposed research instead aims to uplift workers and improve the marketplace for online work.We contend that if thus transformed, digital work may help with the economic recovery of regions whose traditional industries have left. 
+      This project aims to develop sustainable methods for transitioning workers to high-skilled and creative digital jobs that are unlikely to be automated in the near to medium term future. The key  theme we build on is that existing paid work opportunities in crowd work can be transformed to not only improve the work product for the employer, but also to help the worker move along the career paths necessary for the future of work. We address a fundamental challenge in that those who most need to develop skills to gain higher paying jobs cannot afford the unpaid time spent in training needed to develop them. Accomplishing this vision will require solving the following core research questions: (i) How can we best support the marginalized workers in their transition to online work?, (ii) How can Artificial Intelliegnce tools augment workers, rather than displace them?, (iii) How can we design tools to help workers build skills and creativity for work that is unlikely to be automated in the future?
+      In this project, we partner with local institutions to provide workers training to perform progressively more advanced digital work, while earning money. Our vision is to scaffold workers through basic computer fluency, working with AI tools, and finally innovation and entrepreneurship skills. This work is in collaboration with a rural partner (Rupert Public Library, in Rupert, WV) and urban partner (CommunityForge in Wilkinsburg, PA). This work benefits from a partnership with Bosch Inc. in Pittsburgh, ConservationX Labs in Washington DC, and the State of West Virginia.
+      This project has the potential to make advances across a variety of interrelated fields including crowdsourcing, Artificial Intelligence, Human Computer Interaction, Cognitive Science, Learning Science, Sociology and Economics. Simultaneously enabling both improved work outcomes as well as skill development in crowd work will require the development of models of workers, skills, and their trajectories at a more nuanced level. Enabling workers to collaborate with Artificial Intelligence will require new human-computer interaction paradigms. Supporting creativity and the development of new skills will require the exploration of new organization and coordination structures. By grounding our investigations in real world contexts we aim for generalizable knowledge that can lay a foundation for research on the future of crowd work at the human-AI frontier.
+-
+   title: LWLL&colon; FLASH&colon; Fast Learning via Auxiliary signals, Structured knowledge, and Human expertise
+   awarding_body: DARPA
+   amount: $3.3m
+   start_date: 2019
+   end_date: 2022
+   status: current
+   PI_info: Dan Roth (PI - UPenn), Irfan Essa (Georgia Tech), Chris Callison-Burch (UPenn), Zsolt Kira (Georgia Tech), Le Song (Georgia Tech), Mayur Naik (UPenn), Osbert Bastani (UPenn)
+   url: 
+   abstract: 
+-
+   title: KAIROS&colon; RESIN&colon; Reasoning about Event Schemas for Induction of kNowledge
+   awarding_body: DARPA
+   amount: $12m
+   start_date: 2019
+   end_date: 2024
+   status: current
+   PI_info: Heng Ji (PI - UIUC), Mohit Bansal (UNC), Chris Callison-Burch (UPenn), Shih-Fu Chang (Columbia), Jiawei Han (UIUC), Martha Palmer (Colorado), Dan Roth (UPenn), Carl Vondrick (Columbia)
+   url: 
+   abstract: 
+-
+   title: Machine Commonsense&colon; Commonsense Reasoning for Natural Language Understanding
+   awarding_body: DARPA
+   amount: $12m
+   start_date: 2019
+   end_date: 2023
+   status: rejected
+   PI_info: Dan Roth (PI), Larry Birnbaum, Chris Callison-Burch, Snigdha Chaturvedi, Dough Downey, Julia Hockenmaier, Heng Ji
+   url: 
+   abstract: 
+-
+   title: BETTER&colon; Task and User-Aware Representation Learning for Fine-Grained Cross-Lingual Information Retrieval
+   awarding_body: IARPA
+   amount: $6m
+   start_date: 2019
+   end_date: 2023
+   status: current
+   PI_info: Ellie Pavlick (PI - Brown), Carsten Eickhoff (Brown), Chris Callison-Burch (UPenn), Wei Xu (OSU), Alan Ritter (OSU)
+   url: 
+   abstract: 
+-
+   title: Google Faculty Research Award (Using Self-Identification of Group Membership to Explore Differences in Argumentation and Evidence Finding)
+   awarding_body: Google
+   amount: $80,000
+   PI_info: Chris Callison-Burch and Emily Falk
+   start_date: 2019
+   status: past
+-
+   title: SPUR WOMEN&colon; Support and Promote Undergraduate Research for Women
+   awarding_body: Google
+   amount: $25k from Google, plus $25k matched by SEAS
+   start_date: 2018
+   end_date: 2019
+   status: past
+   PI_info: PI with Rita Powell
+   url: https://www.blog.google/outreach-initiatives/education/fifteen-grants-support-computing-research-undergraduate-women/
+-
+   title: FW-HTF Theme 1&colon; Enabling Rural Digital Workers to Collaborate with AI to Learn Skills Over Time, Increase Wages and Opportunities, and Access Creative Work
+   awarding_body: NSF 
+   amount: $3m
+   start_date: 2019
+   end_date: 2024
+   status: rejected
+   PI_info: Jeffrey Bigham (CMU) - PI, Chris Callison-Burch (UPenn), Ben Hanrahan (Penn State), Aniket Kittur (CMU), Saiph Savage (West Virgina University)
+   url: https://www.nsf.gov/pubs/2018/nsf18548/nsf18548.htm
+   abstract: 
+-
+   title: Learning and Reasoning for Multi-Modal Semantics&colon; Large Scale Data Science at UPenn
+   awarding_body: DURIP Instrumentation Grant
+   amount: $700k
+   start_date: 2019
+   end_date: 2020
+   status: rejected
+   PI_info: Dan Roth - PI, Zack Ives, Chris Callison-Burch, and Lyle Ungar
+   url: https://www.grants.gov/web/grants/view-opportunity.html?oppId=302053
+   abstract: In the next decade, intelligence analysts will need to monitor a huge number of events and entities, formulate, and evaluate hypotheses with respect to them. Analysts must interact, at the appropriate level of semantic abstraction, with systems that can synthesize, summarize and interpret vast amounts of multimodal and multilingual information, integrate observed data with domain models and background information in multiple formats, propose hypotheses, and help verify them.      Developing an understanding of a situation involves identifying, classifying, and integrating information about evolving events and other propositions identified in media streams, grounding them in existing resources and past situations, and providing ways to entertain hypotheses, and develop “what if” scenarios.  It also necessitates understanding the sources of the information, that are now more diverse than ever, in deeper ways that we considered before.      Revolutionizing the way textual and visual information streams are being analyzed, represented and synthesized requires a broad range of technical expertise, in machine learning and deep learning, in knowledge representation and reasoning and in natural language processing. And it requires extensive computational resources to support developing new insights and new algorithmic methods, and new technologies in these areas.       Most of the research described in this proposal is driven by machine learning methods and, specifically, by deep learning methods. There is a need to significantly augment the computational infrastructure to include clusters of GPUs and in order to support this research, and the computational needs go beyond those that can be supported by a single funded project.  Our proposal will support modernizing the computational infrastructure of the Data Science group at the Computer and Information Science Department at the University of Pennsylvania. Members of this group have already made long lasting and significant contributions in all these areas, and a significant increase in the infrastructure, as needed to support current deep learning and optimization methods is essential to continuing and amplifying these contributions.       At the same time, this infrastructure will support the education of a large number of research, PhD and MS, students and their preparation to careers in industry and DoD.      Members of our team have experience developing software packages that have been made available and used extensively by the research community; the new infrastructure will allow us to continue this tradition and make our algorithmic contributions and learning and natural language processing tools available. 
+-
+   title: Learning to Reason with Learned Models and Domain Knowledge
+   awarding_body: ONR
+   amount: $2m
+   start_date: 2019
+   end_date: 2023
+   status: rejected
+   PI_info: Dan Roth - PI, Zack Ives, Chris Callison-Burch, Susan Davidson, Mark Sammons
+   url: https://www.grants.gov/web/grants/view-opportunity.html?oppId=300565
+   abstract: |
+      There is broad recognition of the promise of data-driven and “intelligent” solutions to a range of complex decision problems in the physical and life sciences, in engineering, and in their applications to problems in government, defense, and the social sciences. There is agreement that decisions should be informed by data. Indeed, the success of statistical machine learning over the last few years in several visible supervised function estimation tasks such as image recognition and speech recognition, has tilted the pendulum in the direction of “only data”. Given a task, the standard machine learning methodology suggests to collect annotated data for this task, and then train a model for it.  However, this methodology is not scalable – it is unrealistic to assume it possible to supervise the complex decisions needed without incorporating domain specific knowledge and background knowledge, which are essential to support problem decomposition, generalization, and transfer, as well as decision making in complex scenarios that have not been observed before. 
+      Our primary scientific goal is to change this narrow problem setting and offer an encompassing approach to Learning to Reason&colon; supporting decisions made by incorporating knowledge – domain specific, common sense, declarative and statistical – along with statistically learned models.  We propose to study three fundamental and complementary themes&colon;  
+      Inference&colon; We propose a principled computational framework for integrating domain knowledge and machine learning for supporting diverse complex inferences that are robust and transferable. In particular, our inference framework allows the incorporation of different knowledge representations – rules, constraints and preferences – encoding various forms of knowledge – quantitative, temporal, relational and structural. It supports integrating these knowledge representations directly with statistical machine learning models, as a way to bias and combine predictions of individual models, or within a joint (end-to-end) learning and inference framework that account for the declarative constraints while learning. 
+      Knowledge Representation&colon; Declarative knowledge representations are powerful since they often come with a proof system. However, they do not account for the ambiguity and variability that are inherent in the messy data that must be dealt with in real world applications. We propose to develop a knowledge representation scheme that supports the “traditional” relational structure, but nevertheless enjoys useful properties of continuous representations. 
+      Learning with Knowledge is perhaps the most significant challenge to effective machine learning for complex problems. We will address two key issues in this context&colon; (i) How to guide learning of complex models, via (declarative, soft and hard) prior knowledge and indirect supervision, so that interdependent output variables satisfy, perhaps softly, global expectations; and (ii) How to decompose models and automatically learn KR-like structured models of knowledge, in the course of performing a complex task, as a way to better support transfer across domains and facilitate better generalization for decisions in previously  unseen situations. 
+      Our vision and concrete goals are fully supported by the expertise and experience of our team. We are leading researchers in Artificial Intelligence, including natural language processing, machine learning, and knowledge representation and reasoning, as well as in probabilistic knowledge bases, web and databases. We believe that we can significantly impact the way machine learning is studied in the context of complex decision problems, proposing new learning protocols, advanced knowledge representations, and an integrated learning to reason approach. 
+-
+   title: CI-NEW&colon; NIEUW&colon; Novel Incentives and Workflows in Linguistics Data Collection
+   awarding_body: NSF
+   amount: $1.2m
+   start_date: 2017
+   end_date: 2022
+   status: past
+   PI_info: co-PI with Christopher Cieri and Mark Liberman
+   url: https://www.nsf.gov/awardsearch/showAward?AWD_ID=1730377
+   abstract: Language touches every aspect of human life. People speak and write in order to manage relationships from the personal to the international, to gather and provide information, to negotiate, influence and inspire. Scientists use language to communicate their findings regardless of their field of study. Although researchers have worked for decades to process language via computer, only in the past several years have their efforts have produced technologies of sufficient maturity that they can affect the lives of the average citizen. Today, some of the most fortunate use computers to search the vast archives of the Internet, to translate material from languages they do not understand into languages they do and to interact with smart devices by giving them natural language commands and queries and receive responses in kind. Despite the growth and promise of human language technologies, they are in fact available only for a tiny portion of the world’s approximately 7000 languages and, even then, only for a limited range of situations. This is the case because the approaches that have proven most successful in developing human language technologies are data starved. Specifically, they require language volumes of spoken or written language that have been augmented by human judgment, but lack such resources for most languages and for many situations even in languages of international importance, including English. This project will address the shortage of language resources by employing novel incentives and alternate workflows to supplement the methods that have been used traditionally to collect and annotate language data. The resulting resources will support an expanded range of language technologies leading to apps for a broader range language of languages and situations. The same data will support basic research in language and language teaching. Even a brief observation of user behavior on social media, online games, citizen science and public good initiatives demonstrates that many people around the world are willing to devote collectively vast amounts of effort when given appropriate motivation and effective tools. This project will harness some of the immense people-power that drives such activities and focus it on problems of developing language resources that help computers learn to process language. Specifically, the project will create a software toolkit to be used by the project team and independent researchers to create online activities that yield language resources. The activities will include games, citizen science and tools for language professionals, clustered into a series of portals that appeal to different populations of users. The project will build and maintain the database and web servers, with redundancy, load balancing and fail over, to run the principal instance of all of the activities. An open source release of the software will enable others to build their own instances independently. Finally, the project will share the data resulting from this project with the least restrictive terms possible to support research, technology development and language teaching. 
+-
+   title: DEFT Extension
+   awarding_body: DARPA
+   amount: $116,000
+   start_date: 2017
+   end_date: 2017
+   status: past
+   PI_info: PI with Ben Van Durme
+-
+   title: CI-P&colon; Planning for Scalable Language Resource Creation through Novel Incentives and Crowdsourcing
+   awarding_body: NSF
+   amount: $100,000
+   start_date: 2016
+   end_date: 2017
+   status: past
+   PI_info: co-PI with Christopher Cieri and Mark Liberman
+-
+   title: Amazon Web Services supplimental grant to Amazon Academic Research Award
+   awarding_body: Amazon
+   amount: $40,000 
+   type: AWS credit
+   start_date: 2016
+   end_date: 2017
+   status: past
+   PI_info: PI
+-
+   title: Low Resource Machine Translation via Matrix Factorization (Amazon Academic Research Awards)
+   awarding_body: Amazon
+   type: Gift
+   amount: $68,000
+   start_date: 2016
+   end_date: 2017
+   status: past
+   PI_info: PI
+-
+   title: Learning translations from monolingual texts (LORELEI)
+   awarding_body: DARPA
+   amount: $478,000
+   start_date: 2015
+   end_date: 2019
+   status: past
+   PI_info: PI at Penn
+-
+   title: SIREN-IL&colon; Specialized Intra/Interlingual Resources for Emergent News - Incident Language
+   awarding_body: DARPA
+   amount: $3,031,412
+   start_date: 2015
+   end_date: 2017
+   PI_info: co-PI with Stephanie Strassel
+   status: past
+-
+   title: Natural Logic Solver for Aristo
+   awarding_body: Allen Institute for Artificial Intelligence (AI2)
+   amount: $95,000
+   start_date: 2015
+   end_date: 2016
+   PI_info: PI
+   status: past
+-
+   title: EAGER&colon; Simplification as Machine Translation
+   awarding_body: NSF
+   amount: $100,000
+   start_date: 2014
+   end_date: 2015
+   PI_info: PI
+   status: past
+-
+   title: Unsolicited Gift
+   awarding_body: Facebook
+   amount: $50,000
+   start_date: 2014
+   status: past
+-
+   title: Sloan Research Fellowship
+   awarding_body: Alfred P. Sloan Foundation
+   amount: $50,000
+   start_date: 2014
+   status: past
+-
+   title: Google Faculty Research Award (Learning Paraphrases from Large, Diverse Data Sets)
+   awarding_body: Google
+   amount: $62,000
+   start_date: 2013
+   status: past
+-
+   title: Large-scale Paraphrasing for Natural Language Understanding (DEFT)
+   awarding_body: DARPA
+   amount: $1,600,000
+   start_date: 2012
+   end_date: 2017
+   PI_info: PI with Ben Van Durme
+   status: past
+-
+   title: EAGER&colon; Combining natural language inference and data-driven paraphrasing
+   awarding_body: NSF
+   amount: $100,000
+   start_date: 2012
+   end_date: 2013
+   status: past
+   PI_info: co-PI with Ben Van Durme
+-
+   title: Crowdsourcing Translation (Computer Science Study Panel phase 3)
+   awarding_body: DARPA
+   amount: $500,000
+   start_date: 2012
+   end_date: 2015
+   PI_info: PI
+   status: past
+-
+   title: Improved Arabic dialect translation through Crowdsourcing
+   awarding_body: DARPA
+   amount: $176,000
+   start_date: 2012
+   end_date: 2013
+   status: past
+   PI_info: PI
+-
+   title: Acquisition and use of paraphrases in a knowledge-rich setting
+   awarding_body: Vulcan
+   amount: $260,000
+   start_date: 2011
+   end_date: 2013
+   status: past
+   PI_info: co-PI with Ben Van Durme
+-
+   title: Google Faculty Research Award (Translate the World&colon; A Unified Framework for Crowdsourcing Translation)
+   awarding_body: Google
+   amount: $150,000
+   start_date: 2011
+   status: past
+   PI_info: co-PI with Philip Resnik and Ben Bederson
+-
+   title: Crowdsourcing Translation
+   awarding_body: Microsoft
+   amount: $25,000
+   status: past
+   start_date: 2011
+-
+   title: RI&colon;Medium&colon; Semi-supervised Discriminative Training of Sequence Transduction Model
+   awarding_body: NSF
+   amount: $800,000
+   start_date: 2011
+   status: past
+   end_date: 2015
+   PI_info: co-PI with Sanjeev Khudanpur, Brian Roark, Damianos Karakos, Richard Sproat
+-
+   title: Translation of informal texts via Mechanical Turk
+   awarding_body: BBN Technologies 
+   amount: $144,000
+   start_date: 2010
+   end_date: 2011
+   status: past
+   PI_info: PI
+-
+   title: BABEL&colon; Bayesian Architecture Begetting Every Language (Computer Science Study Panel phase 2)
+   awarding_body: DARPA
+   amount: $500,000
+   start_date: 2010
+   end_date: 2012
+   status: past
+   PI_info: PI
+-
+   title: Google Faculty Research Award (The Babel Challenge&colon; Translating all the World’s Languages)
+   awarding_body: Google
+   amount: $45,000
+   start_date: 2010
+   status: past
+   PI_info: co-PI with Miles Osborne
+-
+   title: EuroMatrixPlus&colon; Bringing Machine Translation for European Languages to the User
+   awarding_body: European Union Framework 7 Programme
+   amount: €4,950,000 
+   start_date: 2009
+   end_date: 2012
+   status: past
+   PI_info: PI at JHU (JHU Amount&colon; €516,000)
+   notes: JHU Amount&colon; 516,000 euros / 319,000 euros not including cost sharing. Total project budget&colon;4,950,000 euros / 3,800,000 euros not including cost sharing 
+-
+   title: Global Autonomous Language Exploitation (GALE) project, Periods 3 and 4
+   awarding_body: DARPA
+   amount: $575,000
+   start_date: 2009
+   end_date: 2011
+   status: past
+   PI_info: co-PI with Sanjeev Khudanpur and Damianos Karakos
+-
+   title: Computer Science Study Panel
+   awarding_body: DARPA
+   amount: $93,000
+   start_date: 2008
+   end_date: 2009
+   status: past
+   PI_info: PI
+-
+   title: RI&colon;SMALL&colon; Multi-Level Modeling of Language and Translation
+   awarding_body: NSF
+   amount: $400,000
+   start_date: 2007
+   end_date: 2012
+   status: past
+   PI_info: co-PI with David Yarowsky
+-
+   title: EuroMatrix&colon; Statistical and Hybrid Machine Translation Between All European Lan
+   awarding_body: European Union Framework 6 Programme
+   amount: €3,200,000 
+   start_date: 2009
+   end_date: 2012
+   PI_info: non-PI coauthor 
+   notes: 4,950,000 euros / 3,800,000 euros not including cost sharing 
+-
+   title: SMART&colon;Scotland Technology Innovation Grant
+   awarding_body: British Government
+   amount: £45,000 
+   start_date: 2002
+   end_date: 2005
+   status: past
+   notes: research funds for my company, Linear B Ltd.

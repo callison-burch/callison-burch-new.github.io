@@ -1,0 +1,1202 @@
+-
+   semester: Summer 2021
+   students: 
+    -
+       name: Priya Shah
+       degree: Undergraduate
+       pic: 
+       homepage:
+       project: Virtual Home
+       graduation_date: 
+       gender: female
+       role: PURM
+    -
+       name: Ricardo Gonzalez
+       degree: Undergraduate
+       pic: 
+       homepage:
+       project: Question Answering 
+       graduation_date: 
+       gender: male
+       role: Clark Scholars Program
+       urm: true
+    -
+       name: Diana Chuning Yuan
+       degree: Undergraduate
+       pic: 
+       homepage:
+       project: Question Answering for textbooks 
+       graduation_date: 
+       gender: female
+       role: volunteer
+    -
+       name: Daniel Joongwon Kim
+       degree: Undergraduate
+       pic: 
+       homepage:
+       project: BiSECT Sentence Splitting
+       graduation_date: 
+       gender: male
+       role: RA
+-
+   semester: Spring 2021
+   students:
+    -
+       name: Daniel Joongwon Kim
+       degree: Undergraduate
+       pic: 
+       homepage:
+       project: BiSECT Sentence Splitting
+       graduation_date: 
+       gender: male
+       role: volunteer
+    -
+       name: Sanjeevini Ganni
+       degree: Masters
+       pic: 
+       homepage:
+       project: Narratology and Fan Fiction
+       graduation_date: Spring 2021
+       gender: female
+       role: thesis
+-
+   semester: Fall 2020
+   students:
+    -
+       name: Daniel Joongwon Kim
+       degree: Undergraduate
+       pic: 
+       homepage:
+       project: BiSECT Sentence Splitting
+       graduation_date: 
+       gender: male
+       role: volunteer
+    -
+       name: Jacob Beckerman
+       degree: Masters
+       pic: 
+       homepage:
+       project: Graph Algorithms and Visualization of Complex Legal Contracts
+       graduation_date: Fall 2020
+       gender: male
+       role: thesis
+    -
+       name: Sanjeevini Ganni
+       degree: Masters
+       pic: 
+       homepage:
+       project: Narratology and Fan Fiction
+       graduation_date: Spring 2021
+       gender: female
+       role: thesis
+    -
+       name: Ashley Nobi
+       degree: Undergraduate
+       pic: 
+       homepage:
+       project: KAIROS Event Annotation
+       graduation_date: 
+       gender: female
+       role: Independent Study
+       urm: true
+    -
+       name: Sadhana Ravoori
+       degree: Masters
+       pic: 
+       homepage:
+       project: WikiHow Image Understanding
+       graduation_date: Spring 2021
+       gender: female
+       role: Independent Study
+    -
+       name: Edward Cohen
+       degree: Masters
+       pic: 
+       homepage:
+       project: Turkish Judge
+       graduation_date: Spring 2021
+       gender: male
+       role: Independent Study
+-
+   semester: Summer 2020
+   students: 
+    -
+       name: Daniel Joongwon Kim
+       degree: Undergraduate
+       pic: 
+       homepage:
+       project: BiSECT Sentence Splitting
+       graduation_date: 
+       gender: male
+       role: volunteer
+    -
+       name: Sanjeevini Ganni
+       degree: Masters
+       pic: 
+       homepage:
+       project: Narratology and Fan Fiction
+       graduation_date: Spring 2021
+       gender: female
+       role: RA
+    -
+       name: Ashley Nobi
+       degree: Undergraduate
+       pic: 
+       homepage:
+       project: KAIROS Event Annotation
+       graduation_date: 
+       gender: female
+       role: RA
+       urm: true
+    -
+       name: Sadhana Ravoori
+       degree: Masters
+       pic: 
+       homepage:
+       project: WikiHow Image Understanding
+       graduation_date: Spring 2021
+       gender: female
+       role: RA
+-
+   semester: Spring 2020
+   students:
+    -
+       name: Edward Cohen
+       degree: Undergraduate
+       pic: 
+       homepage:
+       project: Turkish Judge
+       graduation_date: 
+       gender: male
+       role: Independent Study
+    -
+       name: Mukund Venkateswaran
+       degree: Undergraduate
+       pic: 
+       homepage:
+       project: Turkish Judge
+       graduation_date: 
+       gender: male
+       role: Independent Study
+    -
+       name: Damilola Omitaomu
+       degree: Undergraduate
+       pic: 
+       homepage:
+       project: Empathic Conversations
+       graduation_date: 
+       gender: male
+       role: Thesis
+       urm: true
+-
+   semester: Fall 2019
+   students: 
+    -
+       name: Maxwell Deng
+       degree: Undergraduate
+       pic: 
+       homepage:
+       project: Reddit self indentification website
+       graduation_date: 
+       gender: male
+       role: Independent Study
+    -
+       name: Arun Kirubarajan
+       degree: Undergraduate
+       pic: 
+       homepage: 
+       project: ChatEval
+       graduation_date: 
+       gender: male
+       role: Independent Study
+    -
+       name: Tyler Larkworthy
+       degree: Undergraduate
+       pic: 
+       homepage: 
+       project: 
+       graduation_date: 
+       gender: male
+       role: Independent Study
+    -
+       name: Hanna Mushakevich
+       degree: Undergraduate
+       pic: 
+       homepage: 
+       project: NLP Tutorial
+       graduation_date: 
+       gender: female
+       role: Independent Study
+    -
+       name: Damilola Omitaomu
+       degree: Undergraduate
+       pic: 
+       homepage: 
+       project: Empathic Conversations
+       graduation_date: 
+       gender: male
+       role: Independent Study
+       urm: true
+    -
+       name: Sarah Payne
+       degree: Undergraduate
+       pic: 
+       homepage: 
+       project: 
+       graduation_date: 
+       gender: female
+       role: Independent Study
+
+-
+   semester: Summer 2019
+   students: 
+    -
+       name: Sarah Payne
+       degree: Undergraduate
+       pic: 
+       homepage:
+       project: Word Vectors
+       graduation_date: 
+       gender: female
+       role: PURM
+    -
+       name: Sherry Run
+       degree: Undergraduate
+       pic: 
+       homepage:
+       project: Word Vectors
+       graduation_date: 
+       gender: female
+       role: PURM
+    -
+       name: Ivy Jiawen Zhang
+       degree: Undergraduate
+       pic: 
+       homepage:
+       project: Word Vectors
+       graduation_date: 
+       gender: female
+       role: RA
+    -
+       name: Xinyi Wang
+       degree: Undergraduate
+       pic: 
+       homepage:
+       project: Word Vectors
+       graduation_date: 
+       gender: female
+       role: RA
+    -
+       name: Kreen De Jesus
+       degree: Masters
+       pic: 
+       homepage:
+       project: Word Vectors
+       graduation_date: 
+       gender: female
+       urm: true
+       role: RA
+    -
+       name: Damilola Omitaomu
+       degree: Undergraduate
+       pic: 
+       homepage:
+       project: Crowdsourcing
+       graduation_date: 
+       gender: male
+       urm: true
+       role: RA
+    -
+       name: Maxwell Deng
+       degree: Undergraduate
+       pic: 
+       homepage:
+       project: Crowdsourcing
+       graduation_date: 
+       gender: male
+       role: RA
+    -
+       name: Edward Cohen
+       degree: Undergraduate
+       pic: 
+       homepage:
+       project: Crowdsourcing
+       graduation_date: 
+       gender: male
+       role: RA
+    -
+       name: Nyasha Zimunhu
+       degree: Undergraduate
+       pic: 
+       homepage:
+       project: 
+       graduation_date: 
+       gender: female
+       urm: true
+       role: RA
+    -
+       name: Yrmine Thelusma
+       degree: Undergraduate
+       pic: 
+       homepage:
+       project: 
+       graduation_date: 
+       gender: female
+       urm: true
+       role: RA
+    -
+       name: Daniel Stekol
+       degree: Undergraduate
+       pic: 
+       homepage:
+       project: Neural Nets
+       graduation_date: 
+       gender: male
+       role: RA
+    -
+       name: Hanna Wang
+       degree: Undergraduate
+       pic: 
+       homepage:
+       project: Analyzing Earnings of Crowd Workers
+       graduation_date: 
+       gender: male
+       role: 
+-
+   semester: Spring 2019
+   students: 
+    -
+       name: Kreen De Jesus
+       degree: Masters
+       pic: 
+       homepage:
+       project: Word Vectors
+       graduation_date: 
+       gender: female
+       role: Independent Study
+    -
+       name: Aditya Kashyap
+       degree: Master's in Data Science
+       pic: 
+       homepage:
+       project: Self-identification on Reddit
+       graduation_date: 
+       gender: male
+       role: Master's Thesis
+    -
+       name: Maria Kustikova 
+       degree: Master's 
+       pic: 
+       homepage:
+       project: Creating Word Sense Clusters with Images
+       graduation_date: May 2019
+       gender: female
+       role: Master's Thesis
+    -
+       name: Jasmine Sun Jae Lee
+       degree: Undergraduate
+       pic: 
+       homepage:
+       project: Paraphrasing noun compounds to reveal their relations
+       graduation_date: 
+       gender: female
+       role: Undergraduate Thesis
+    -
+       name: Sarah Payne
+       degree: Undergraduate
+       pic: 
+       homepage:
+       project: Word Vectors
+       graduation_date: 
+       gender: female
+       role: RA
+    -
+       name: Daniel Stekol
+       degree: Undergraduate
+       pic: 
+       homepage:
+       project: Deep learning
+       graduation_date: 
+       gender: male
+       role: RA
+    -
+       name: Trevor Huang
+       degree: Undergraduate
+       pic: 
+       homepage:
+       project: Data collection for role playing games
+       graduation_date: 
+       gender: male
+       role: RA
+    -
+       name: Diana Marsala
+       degree: Undergraduate
+       pic: 
+       homepage:
+       project: Self-identification on Reddit
+       graduation_date: 
+       gender: female
+       role: RA
+    -
+       name: Mengdi Huang
+       degree: Master's Student
+       pic: 
+       homepage:
+       project: Text Coherence
+       graduation_date: 
+       gender: female
+       role: RA
+-
+   semester: Fall 2018
+   students: 
+    -
+       name: Jacob Beckerman
+       degree: Undergraduate
+       pic: 
+       homepage:
+       project: OpenIE
+       graduation_date: 
+       gender: male
+       role: Independent Study
+    -
+       name: Rahul Shekhar
+       degree: Undergraduate
+       pic: 
+       homepage:
+       project: Predicting whether an Adjective is Scalar or Not
+       graduation_date: 
+       gender: male
+       role: Independent Study
+    -
+       name: Jasmine Sun Jae Lee
+       degree: Undergraduate
+       pic: 
+       homepage: 
+       project: Paraphrasing noun compounds to reveal their relations
+       graduation_date: 
+       gender: female
+       role: Undergraduate Thesis
+    -
+       name: Gil Landau
+       degree: Master's Student
+       pic: 
+       homepage:
+       project: Scalar Adjectives with Continuous Space Models
+       graduation_date: 
+       gender: male
+       role: Independent Study
+    -
+       name: Mengdi Huang
+       degree: Master's Student
+       pic: 
+       homepage:
+       project: Text Coherence
+       graduation_date: 
+       gender: female
+       role: RA
+    -
+       name: Gaurav Kumar
+       degree: Master's Student
+       pic: 
+       homepage:
+       project: Complexity-Weighted Loss and Diverse Reranking for Sentence Simplification
+       graduation_date: 
+       gender: male
+       role: RA
+    -
+       name: Daniel Stekol
+       degree: Undergraduate
+       pic: 
+       homepage:
+       project: Deep Learning 
+       graduation_date: 
+       gender: male
+       role: RA
+    -
+       name: Ignacio Arranz 
+       degree: Masters
+       pic: 
+       homepage:
+       project: Self-identification On Reddit
+       graduation_date: 
+       gender: male
+       role: Independent Study
+    -
+       name: Aditya Kashyap
+       degree: Master's in Data Science
+       pic: 
+       homepage:
+       project: Self-identification on Reddit
+       graduation_date: 
+       gender: male
+       role: Independent Study
+    -
+       name: Diana Marsala
+       degree: Undergraduate
+       pic: 
+       homepage:
+       project: Self-identification on Reddit
+       graduation_date: 
+       gender: female
+       role: RA
+    -
+       name: Maria Kustikova 
+       degree: Master's 
+       pic: 
+       homepage:
+       project: Creating Word Sense Clusters with Images
+       graduation_date: May 2019
+       gender: female
+       role: Master's Thesis
+    -
+       name: Carolina Zheng
+       degree: Undergraduate
+       pic: 
+       homepage:
+       project: Complexity-Weighted Loss and Diverse Reranking for Sentence Simplification
+       graduation_date: 
+       gender: female
+       role: RA
+-
+   semester: Summer 2018
+   students: 
+    -
+       name: Minh Nguyen
+       degree: Undergraduate (Swartmore)
+       pic: 
+       homepage:
+       project: Multimodal Embeddings
+       graduation_date: 
+       gender: female
+       role: RA (Swartmore Undergraduate Research Award)
+    -
+       name: Jai Thirani
+       degree: Undergraduate
+       pic: 
+       homepage:
+       project: Evaluating Chatbots
+       graduation_date: 
+       gender: male
+       role: RA
+    -
+       name: Arun Kirubarajan
+       degree: Undergraduate
+       pic: 
+       homepage:
+       project: Evaluating Chatbots
+       graduation_date: 
+       gender: male
+       role: RA (PURM)
+    -
+       name: Daniel Stekol
+       degree: Undergraduate
+       pic: 
+       homepage:
+       project: Learning Translations from Images
+       graduation_date: 
+       gender: male
+       role: RA (PURM)
+    -
+       name: Veronica (Qing) Lyu
+       degree: Undergraduate (Tsinghua University)
+       pic: 
+       homepage:
+       project: Bilingual lexicon induction
+       graduation_date: 
+       gender: female
+       role: Independent Study
+    -
+       name: Aditya Kashyap
+       degree: Master's in Data Science
+       pic: 
+       homepage:
+       project: Self-identification on Reddit
+       graduation_date: 
+       gender: male
+       role: Independent Study
+    -
+       name: Peter Kong 
+       degree: Master's
+       pic: 
+       homepage:
+       project: Evaluation metrics for style transfer 
+       graduation_date: 
+       gender: male
+       role: Independent Study
+
+-
+   semester: Spring 2018
+   students: 
+    -
+       name: Zhan Chin
+       degree: Undergraduate
+       pic: RAs/zhan_chin.jpg
+       homepage:
+       project: Creating ensembles of cross-lingual word embeddings
+       graduation_date: May 2018
+       gender: male
+       role: Independent Study
+    -
+       name: Luke Carlson
+       degree: Master's (Submatricated)
+       pic: 
+       homepage:
+       project: Cleaning up Comments&colon; Using Deep Learning to Detect Digital Harassment
+       graduation_date: May 2018
+       gender: male
+       role: Independent Study
+       job_after_graduation: Apple Machine Translation
+    -
+       name: Shrinidhi Ramakrishnan
+       degree: Master's 
+       pic: 
+       homepage:
+       project: Creating Word Sense Clusters with Images
+       graduation_date: May 2018
+       gender: female
+       role: Independent Study
+       job_after_graduation: NVIDIA
+    -
+       name: Maria Kustikova 
+       degree: Master's 
+       pic: 
+       homepage:
+       project: Creating Word Sense Clusters with Images
+       graduation_date: May 2019
+       gender: female
+       role: Independent Study
+    -
+       name: Gil Landau 
+       degree: Master's 
+       pic: 
+       homepage:
+       project: Scalar Adjectives with Word Embeddings
+       graduation_date: May 2019
+       gender: male
+       role: Independent Study
+    -
+       name: Jasmine (Sun Jae) Lee 
+       degree: Undergraduate 
+       pic: 
+       homepage:
+       project: Monolingual Word Alignments
+       graduation_date: 
+       gender: female
+       role: RA
+-
+   semester: Fall 2017
+   students: 
+    -
+       name: Alexander Ma
+       degree: Undergraduate
+       pic: RAs/alexander_ma.jpg
+       homepage:
+       project: Understanding the Role of Open Source (self designed project)
+       graduation_date: May 2018
+       gender: male
+       role: Independent Study
+    -
+       name: Priya Gupta 
+       degree: Undergraduate
+       pic: 
+       homepage:
+       project: Monolingual Word Alignment
+       graduation_date: May 2018
+       gender: female
+       role: RA
+    -
+       name: Devanshu Jain
+       degree: Master's
+       pic: RAs/devanshu_jain.jpg
+       homepage: https://devanshujain.me/
+       project: Machine Transliteration
+       graduation_date: May 2018
+       gender: male
+       role: Master's Thesis
+    -
+       name: Harshal Godhia
+       degree: Master's
+       pic: 
+       homepage: 
+       project: Improving word embeddings to better capture semantics
+       graduation_date: May 2018
+       gender: male
+       role: Independent Study
+    -
+       name: Zhiyu Ma
+       degree: Master's
+       pic: 
+       homepage: 
+       project: Date-Based Word Similarity Comparison
+       graduation_date: May 2018
+       gender: male
+       role: Independent Study
+    -
+       name: Aliza Hochsztein
+       degree: Undergraduate
+       pic: RAs/aliza_hochsztein.jpg
+       homepage: 
+       project: Piazza Post Clustering 
+       graduation_date: May 2018
+       gender: female
+       role: Senior Thesis
+-
+   semester: Summer 2017
+   students: 
+    -
+       name: Eddie Okon
+       degree: Undergraduate
+       pic: RAs/eddie_okon.jpg
+       homepage:
+       project: Clustering Paraprhases with Images
+       graduation_date: May 2018
+       gender: male
+       role: RA
+    -
+       name: Natasha Ter-Saakov
+       degree: High school / Undergraduate
+       univerity: MIT
+       pic: RAs/natasha_ter-saakov.jpg
+       homepage: 
+       project: Intro to NLP
+       graduation_date: May 2021
+       gender: female
+       role: RA
+    -
+       name: Maryanne Cosgrove
+       degree: Undergraduate
+       univerity: Yale
+       pic: RAs/maryanne_cosgrove.jpg
+       homepage: http://www.linkedin.com/in/maryanne-cosgrove
+       project: Trending topics on Wikipedia
+       graduation_date: May 2020
+       gender: female
+       role: RA
+    -
+       name: Bradley Jackson
+       degree: Undergraduate
+       pic: RAs/bradley_jackson.jpg
+       homepage: 
+       project: Know your nyms
+       graduation_date: May 2019
+       gender: male
+       role: RA
+-
+   semester: Spring 2017
+   students: 
+    -
+       name: Grace Arnold
+       degree: Undergraduate
+       pic: RAs/grace_arnold.jpg
+       homepage: https://www.linkedin.com/in/1gracearnold
+       project: Crowdsourcing and Machine Learining 
+       graduation_date: May 2018
+       gender: female
+       role: RA
+    -
+       name: Jack Liu
+       degree: Undergraduate
+       pic: RAs/jack_liu.jpg
+       project: Learning Meronyms
+       graduation_date: May 2017
+       gender: male
+       role: Senior Thesis
+    -
+       name: Jessica Li
+       degree: Undergraduate
+       pic: RAs/jessica_yingjiao_li.jpg
+       homepage: 
+       project: Chinese Paraphrases
+       graduation_date: May 2018
+       gender: female
+       role: RA
+    -
+       name: Jianging Wang
+       degree: Undergraduate
+       pic: RAs/jianging_wang.jpg
+       homepage: https://www.linkedin.com/in/jianing-wang-8a7744115
+       project: Machine Translation
+       graduation_date: May 2019
+       gender: female
+       role: RA
+    -
+       name: John Hewitt
+       degree: Undergraduate
+       pic: RAs/john_hewitt.jpg
+       homepage: https://www.seas.upenn.edu/~johnhew/
+       project: Bilingual lexicon induction
+       graduation_date: May 2018
+       gender: male
+       role: RA
+    -
+       name: Sara Dwyer
+       degree: Undergraduate
+       pic: RAs/sara_dwyer.jpg
+       homepage: 
+       project: Machine Translation
+       graduation_date: May 2019
+       gender: female
+       role: RA
+    -
+       name: Veronica Wharton
+       degree: Undergraduate
+       pic: RAs/veronica_wharton.jpg
+       homepage: http://veronicawharton.com/
+       project: Scalar Adjectives
+       graduation_date: May 2017
+       gender: female
+       role: Senior Project
+    -
+       name: Victoria Xiao
+       degree: Undergraduate
+       pic: RAs/victoria_xiao.jpg
+       homepage: 
+       project: Monolingual alignment
+       graduation_date: May 2018
+       gender: female
+       role: RA
+    -
+       name: Brendan Callahan
+       degree: Master's
+       pic: RAs/brendan_callahan.jpg
+       homepage: 
+       project: Images and Text
+       graduation_date: May 2016
+       gender: male
+       role: Independent Study
+    -
+       name: Devanshu Jain
+       degree: Master's
+       pic: RAs/devanshu_jain.jpg
+       homepage: https://devanshujain.me/
+       project: Transliteration
+       graduation_date: May 2018
+       gender: male
+       role: Independent Study
+    -
+       name: Sneha Rajana
+       degree: Master's
+       pic: RAs/sneha_rajana.jpg
+       homepage: 
+       project: Learning Antonyms
+       graduation_date: May 2017
+       gender: female
+       role: Master's Thesis
+    -
+       name: Xiao Ling
+       degree: Master's
+       pic: RAs/xiao_ling.jpg
+       homepage: 
+       project: Scalar Adjectives
+       graduation_date: May 2017
+       gender: male
+       role: Master's Thesis
+-
+   semester: Fall 2016
+   students: 
+    -
+      name: John Hewitt
+      degree: Undergraduate
+      pic: RAs/john_hewitt.jpg
+      homepage: https://www.seas.upenn.edu/~johnhew/
+      project: Bilingual lexicon induction
+      graduation_date: May 2018
+      gender: male
+      role: RA
+    -
+      name: Nivedita Sankar
+      degree: Undergraduate
+      pic: RAs/nivedita_sankar.jpg
+      homepage: https://www.linkedin.com/in/niveditasankar
+      project: Grievance Process for Crowdsourcing
+      graduation_date: May 2017
+      gender: female
+      role: Senior Design
+    -
+      name: Sierra Yit
+      degree: Undergraduate
+      pic: RAs/sierra_yit.jpg
+      homepage: 
+      project: Predicting Missing Adjectives
+      graduation_date: May 2017
+      gender: female
+      role: Independent Study
+    -
+      name: Talia Delijani
+      degree: Undergraduate
+      pic: RAs/talia_delijani.jpg
+      homepage: 
+      project: Predicting Missing Adjectives
+      graduation_date: May 2018
+      gender: female
+      role: RA
+    -
+      name: Veronica Wharton
+      degree: Undergraduate
+      pic: RAs/veronica_wharton.jpg
+      homepage: http://veronicawharton.com/
+      project: Scalar Adjectives
+      graduation_date: May 2017
+      gender: female
+      role: Senior Project
+    -
+      name: Victoria Xiao
+      degree: Undergraduate
+      pic: RAs/victoria_xiao.jpg
+      homepage: 
+      project: Monolingual alignment
+      graduation_date: May 2018
+      gender: female
+      role: RA
+    -
+      name: Brendan Callahan
+      degree: Master's
+      pic: RAs/brendan_callahan.jpg
+      homepage: 
+      project: Images and Text
+      graduation_date: May 2016
+      gender: male
+      role: Independent Study
+    -
+      name: Sneha Rajana
+      degree: Master's
+      pic: RAs/sneha_rajana.jpg
+      homepage: 
+      project: Learning Antonyms
+      graduation_date: May 2016
+      gender: female
+      role: RA
+    -
+      name: Xiao Ling
+      degree: Master's
+      pic: RAs/xiao_ling.jpg
+      homepage: 
+      project: Scalar Adjectives
+      graduation_date: December 2016
+      gender: male
+      role: Independent Study
+-
+    semester: Summer 2016
+    students: 
+    -
+       name: John Hewitt
+       degree: Undergraduate
+       pic: RAs/john_hewitt.jpg
+       homepage: https://www.seas.upenn.edu/~johnhew/
+       project: Bilingual lexicon induction
+       graduation_date: May 2018
+       gender: male
+       role: RA
+    - 
+       name: Parker Stakoff
+       degree: Undergraduate
+       pic: RAs/parker_stakoff.jpg
+       homepage: 
+       project: Visualizations, Crowdsourcing
+       graduation_date: May 2018
+       gender: female
+       role: RA
+    -
+       name: Veronica Wharton
+       degree: Undergraduate
+       pic: RAs/veronica_wharton.jpg
+       homepage: http://veronicawharton.com/
+       project: Scalar Adjectives
+       graduation_date: May 2017
+       gender: female
+       role: RA
+    -
+       name: Victoria Xiao
+       degree: Undergraduate
+       pic: RAs/victoria_xiao.jpg
+       homepage: 
+       project: Monolingual alignment
+       graduation_date: May 2018
+       gender: female
+       role: RA
+-
+   semester: Spring 2016
+   students: 
+   - 
+      name: Lawrence Chan
+      degree: Undergraduate
+      pic: RAs/lawrence_chan.jpg
+      homepage: 
+      project: Likelihood Estimates of OpEds 
+      graduation_date: May 2018
+      gender: male
+      role: RA
+   - 
+      name: Alexander Ma
+      degree: Undergraduate
+      pic: RAs/alexander_ma.jpg
+      homepage: https://hk.linkedin.com/in/alexander-ma-739320ab
+      project: Transitive Constraints on Semantics
+      graduation_date: May 2018
+      gender: male
+      role: Independent Study
+   - 
+      name: Parker Stakoff
+      degree: Undergraduate
+      pic: RAs/parker_stakoff.jpg
+      homepage: 
+      project: Transitive Constraints on Semantics
+      graduation_date: May 2018
+      gender: female
+      role: RA
+   -
+      name: Veronica Wharton
+      degree: Undergraduate
+      pic: RAs/veronica_wharton.jpg
+      homepage: http://veronicawharton.com/
+      project: Scalar Adjectives
+      graduation_date: May 2017
+      gender: female
+      role: RA, Independent Study
+   -
+      name: Sierra Yit
+      degree: Undergraduate
+      pic: RAs/sierra_yit.jpg
+      homepage: 
+      project: Monolingual Alignment
+      graduation_date: May 2017
+      gender: female
+      role: RA, TA
+   -
+      name: Theresa Breiner
+      degree: Master's
+      pic: RAs/theresa_breiner.jpg
+      homepage: https://www.linkedin.com/in/theresabreiner
+      project: Transliteration
+      graduation_date: May 2016
+      gender: female
+      role: Independent Study
+   -
+      name: Brendan Callahan
+      degree: Master's
+      pic: RAs/brendan_callahan.jpg
+      homepage: 
+      project: Images and Text
+      graduation_date: 
+      gender: male
+      role: Independent Study
+   -
+      name: Shreejit Gangadharan
+      degree: Master's
+      pic: RAs/shreejit_gangadharan.jpg
+      homepage: 
+      project: Bilingual Lexicon Induction
+      graduation_date: May 2016
+      gender: male
+      role: RA
+   -
+      name: Grishma Jena
+      degree: Master's
+      pic: RAs/grishma_jena.jpg
+      homepage: 
+      project: Bilingual Lexicon Induction
+      graduation_date: 
+      gender: female
+      role: Independent Study
+   -
+      name: Sneha Rajana
+      degree: Master's
+      pic: RAs/sneha_rajana.jpg
+      homepage: 
+      project: Learning Antonyms
+      graduation_date: 
+      gender: female
+      role: Independent Study
+   -
+      name: Dhruvil Shah
+      degree: Master's
+      pic: RAs/dhruvil_shah.jpg
+      homepage: 
+      project: Named Entity Recognition
+      graduation_date: May 2016
+      gender: male
+      role: RA
+   -
+      name: Ishan Srivastava
+      degree: Master's
+      pic: RAs/ishan_srivastava.jpg
+      homepage: 
+      project: Images and Text
+      graduation_date: May 2016
+      gender: male
+      role: RA
+- 
+   semester: Fall 2015
+   students: 
+   -
+      name: Drew Stone
+      degree: Undergraduate
+      pic: RAs/drew_stone.jpg
+      homepage: 
+      project: Transliteration
+      graduation_date: May 2018
+      gender: male
+      role: RA
+   -
+      name: Anwesha Das
+      degree: Master's
+      pic: RAs/anwesha_das.jpg
+      homepage: 
+      project: Monolingual Alignment
+      graduation_date: May 2016
+      gender: female
+      role: Independent Study
+   -
+      name: Deepti Panuganti
+      degree: Master's
+      pic: RAs/deepti_panuganti.jpg
+      homepage: 
+      project: Vector Space Models
+      graduation_date: May 2016
+      gender: female
+      role: Independent Study
+   -
+      name: Siyu Qiu
+      degree: Master's
+      pic: RAs/siyu_qiu.jpg
+      homepage: http://www.seas.upenn.edu/~siqiu/
+      project: Twitter Paraphrases
+      graduation_date: December 2015
+      gender: female
+      role: Independent Study
+   -
+      name: Shreejit Gangadharan
+      degree: Master's
+      pic: RAs/shreejit_gangadharan.jpg
+      homepage: 
+      project: Bilingual Lexicon Induction
+      graduation_date: May 2016
+      gender: male
+      role: RA
+   -
+      name: Dhruvil Shah
+      degree: Master's
+      pic: RAs/dhruvil_shah.jpg
+      homepage: 
+      project: Named Entity Recognition
+      graduation_date: May 2016
+      gender: male
+      role: RA
+   -
+      name: Sierra Yit
+      degree: Undergraduate
+      pic: RAs/sierra_yit.jpg
+      homepage: 
+      project: Monolingual Alignment
+      graduation_date: May 2017
+      gender: female
+      role: RA, TA
+   -
+      name: Veronica Wharton
+      degree: Undergraduate
+      pic: RAs/veronica_wharton.jpg
+      homepage: http://veronicawharton.com/
+      project: Scalar Adjectives
+      graduation_date: May 2017
+      gender: female
+      role: Independent Study

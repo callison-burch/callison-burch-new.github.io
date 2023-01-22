@@ -1,0 +1,109 @@
+-
+   name: Andrew Zhu
+   degree: PhD Student
+   pic: andrew_zhu.png
+   institution: University of Pennsylvania
+   start_year: 2022
+   expected_graduation_date: Summer 2027
+   homepage: https://zhu.codes
+   gender: male
+-
+   name: Artemis Panagopoulou
+   degree: PhD Student
+   pic: artemis_panagopoulou.jpg
+   institution: University of Pennsylvania
+   start_year: 2021
+   expected_graduation_date: Summer 2026
+   homepage: https://www.linkedin.com/in/apanagop/
+   gender: female
+-
+   name: Liam Dugan 
+   degree: PhD Student
+   pic: liam_dugan.jpg
+   institution: University of Pennsylvania
+   start_year: 2021
+   expected_graduation_date: Summer 2026
+   homepage: http://liamdugan.com
+   gender: male
+-
+   name: Ajay Patel 
+   degree: PhD Student
+   pic: ajay_patel.jpg
+   institution: University of Pennsylvania
+   start_year: 2020
+   expected_graduation_date: Summer 2025
+   homepage: https://ajayp.app
+   gender: male
+-
+   name: Alyssa Hwang 
+   degree: PhD Student
+   pic: alyssa_hwang.jpg
+   institution: University of Pennsylvania
+   start_year: 2020
+   expected_graduation_date: Summer 2025
+   homepage: 
+   gender: female
+-
+   name: Bryan Li
+   degree: PhD Student
+   pic: bryan_li.jpg
+   institution: University of Pennsylvania
+   start_year: 2020
+   expected_graduation_date: Summer 2025
+   homepage: 
+   gender: male
+-
+   name: Samar Haider
+   degree: PhD Student
+   pic: samar_haider.jpg
+   institution: University of Pennsylvania
+   start_year: 2020
+   expected_graduation_date: Summer 2025
+   homepage: 
+   gender: male
+-
+   name: Yue Yang
+   degree: PhD Student
+   pic: yue_yang.png
+   institution: University of Pennsylvania
+   start_year: 2020
+   expected_graduation_date: Summer 2025
+   homepage: https://yueyang1996.github.io
+   gender: male
+-
+   name: Veronica Qing Lyu 
+   degree: PhD Student
+   pic: veronica_qing_lyu.png
+   institution: University of Pennsylvania
+   start_year: 2019
+   expected_graduation_date: Summer 2024
+   homepage: https://veronica320.github.io/
+   gender: female
+-
+   name: Harry Zhang 
+   degree: PhD Student
+   pic: harry_li_zhang.jpg
+   institution: University of Pennsylvania
+   start_year: 2019
+   expected_graduation_date: Summer 2024
+   homepage: http://zharry.com/
+   gender: male
+-
+   name: Aditya Kashyap 
+   degree: PhD Student
+   pic: aditya_kashyap.jpg
+   institution: University of Pennsylvania
+   start_year: 2019
+   expected_graduation_date: Summer 2024
+   homepage: 
+   gender: male
+-
+   name: Lara Martin
+   homepage: https://laramartin.net
+   degree: Postdoc
+   institution: University of Pennsylvania
+   phd_from: Georgia Tech
+   pic: lara_martin.png
+   postdoc_start: 2021
+   postdoc_end:
+   gender: female
