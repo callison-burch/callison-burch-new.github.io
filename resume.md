@@ -80,7 +80,7 @@ active_tab: CV
 -->
 
 <h2>Teaching Reviews at Penn</h2>
-You can read my full teaching reviews [here](teaching-reviews.pdf).  Below are the summary statistics. 
+You can read my full teaching reviews [here](/teaching-reviews.pdf).  Below are the summary statistics. 
 
 Quality scale (0-4): 0=Poor, 1=Fair, 2=Good, 3=Very Good, 4=Excellent
 <table class="table"> 
@@ -260,6 +260,21 @@ Quality scale (0-4): 0=Poor, 1=Fair, 2=Good, 3=Very Good, 4=Excellent
   {% endfor %}
 </ol>
 
+
+<h2>Past Postdocs</h2>
+
+<ol>
+    {% for postdoc in site.data.past_postdocs %}
+<li>
+  {{ postdoc.name }}, PhD from {{ postdoc.phd_from }}.  Postdoc at {{ postdoc.postdoc_institution }} from {{ postdoc.postdoc_start }} to {{ postdoc.postdoc_end }}.
+  {% if postdoc.current_position and postdoc.current_employer %}
+    Current position: {{ postdoc.current_position }} at {{ postdoc.current_employer }}
+  {% endif %}
+</li>
+  {% endfor %}
+</ol>
+
+
 <h2>PhDs Graduated</h2>
 
 <ol>
@@ -276,14 +291,13 @@ Quality scale (0-4): 0=Poor, 1=Fair, 2=Good, 3=Very Good, 4=Excellent
 	{% else %}
         	"{{ student.thesis_title }}", {{ student.graduation_date }}.
 	{% endif %}
-
-
 </li>
   {% endfor %}
 </ol>
 
 
-<h3>Master's Theses Supervised</h3>
+
+<h2>Master's Theses Supervised</h2>
 
 
 <ol>

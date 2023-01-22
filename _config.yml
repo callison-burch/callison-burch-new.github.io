@@ -28,6 +28,7 @@ navbar-links:
     - NLP: "http://computational-linguistics-class.org/lectures.html"
   Lab: "students"
   Alumni: "students_past"
+  CV: "resume"
 
 ################
 # --- Logo --- #
