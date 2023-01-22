@@ -181,7 +181,7 @@ Quality scale (0-4): 0=Poor, 1=Fair, 2=Good, 3=Very Good, 4=Excellent
 	{{ publication.title }}.
 	{{ publication.venue }}  {{ publication.year }}.
         {% if publication.page_count < 8  %}
-		{% if publication.venue == "ACL" or publication.venue == "NAACL" or publication.venue == "EMNLP" or publication.venue == "EACL" or publication.venue == "AAAI" or publication.venue == "ICLR"%}
+		{% if publication.venue == "ACL" or publication.venue == "NAACL" or publication.venue == "EMNLP" or publication.venue == "EACL"%}
        			{% if publication.type == "demo" %}
 				Demo papers.
 			{% else %}
