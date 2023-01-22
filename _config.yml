@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-#title: CCB
+title: Chris Callison-Burch
 
 # Your name to show in the footer
 author: Chris Callison-Burch
@@ -21,10 +21,13 @@ author: Chris Callison-Burch
 
 navbar-links:
   Publications: "publications"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Teaching:
+    - AI: "http://artificial-intelligence-class.org"
+    - Interactive Fiction: "https://interactive-fiction-class.org"
+    - Crowdsourcing: "http://crowdsourcing-class.org"
+    - NLP: "http://computational-linguistics-class.org/lectures.html"
+  Lab: "students"
+  Alumni: "students_past"
 
 ################
 # --- Logo --- #
@@ -49,13 +52,13 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "ccb@upenn.edu"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+#  facebook: deanattali
+#  github: daattali
+#  twitter: daattali
+#  patreon: DeanAttali
+#  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -79,22 +82,16 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: Chris Callison-Burch
 
 ###########################
 # --- General options --- #
 ###########################
 
-# Select which social network share links to show in posts
-share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
-  vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "https://www.cis.upenn.edu/~ccb/"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -239,8 +236,6 @@ footer-hover-col: "#0085A1"
 # Ruby Date Format to show dates of posts
 date_format: "%B %-d, %Y"
 
-# Facebook App ID
-#fb_app_id: ""
 
 #################################################################################
 # --- You don't need to touch anything below here (but you can if you want) --- #
@@ -280,8 +275,6 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - README.md
-  - screenshot.png
-  - docs/
 
 plugins:
   - jekyll-paginate
